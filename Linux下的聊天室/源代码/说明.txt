@@ -1,0 +1,5 @@
+说明：
+1. chat_room文件为聊天室的源代码；
+2. scripts文件为脚本文件，放在linux系统根目录下；
+3. Server文件夹下的config.json为数据库的配置文件；
+4. Client文件夹的config.json保存的是服务器的端口和ip地址。
